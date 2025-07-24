@@ -36,3 +36,6 @@ SynaptiCare/
 ├── docs/               # Project documentation
 └── .github/            # GitHub workflows (CI/CD, Actions)
 ```
+## 💡 Vision & Philosophy
+
+SynaptiCare believes in democratizing access to intelligent healthcare tools. We aim to bridge the diagnostic gap in underserved areas using AI, cloud technologies, and open standards.
